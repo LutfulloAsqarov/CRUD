@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": "900d",
+      "title": "iphone",
+      "price": {
+        "oldPrice": "100",
+        "newPrice": "90"
+      },
+      "category": "phone",
+      "image": "imga"
+    }
+  ]
+}

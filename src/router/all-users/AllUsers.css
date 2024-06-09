@@ -1,0 +1,5 @@
+.all__users {
+    padding: 40px 10%;
+    background: #121212;
+    min-height: calc(100vh - 80px);
+}
